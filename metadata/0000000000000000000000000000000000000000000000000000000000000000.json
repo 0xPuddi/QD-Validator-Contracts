@@ -1,0 +1,20 @@
+{
+    "id": "0",
+    "name": "First Avalanche Validator Share - Level 1",
+    "symbol": "1AVS1",
+    "image": "https://ipfs.io/ipfs/QmcdKB1Akac2zxdt4NzHYF67etvgiPdEWpw7jxBNyM7qZC?filename=APA.png",
+    "description": "Share used to represent ownership over the Avalanche Validator, the QuarryDraw's ecosystem and their earnings",
+    "external_url": "https://ipfs.io/",
+    "attributes": [
+        {
+            "key": "Chain",
+            "trait_type": "Chain", 
+            "value": "Avalanche"
+          },
+        {
+            "key": "Level",
+            "trait_type": "Level", 
+            "value": 1
+          }
+    ]
+}

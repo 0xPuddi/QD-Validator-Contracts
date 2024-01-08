@@ -1,0 +1,10 @@
+.vscode
+.env
+artifacts
+cache
+coverage
+Diagram
+node_modules
+testObsolete
+coverage.json
+.DS_Store

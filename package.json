@@ -1,0 +1,24 @@
+{
+  "name": "quarrydraw-validator",
+  "version": "1.0.0",
+  "description": "QuarryDraw validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puddi",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1",
+    "hardhat-gas-reporter": "^1.0.8",
+    "solidity-coverage": "^0.7.22"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hardhat-tracer": "^1.2.0",
+    "ipfs-http-client": "^57.0.3",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32"
+  }
+}
